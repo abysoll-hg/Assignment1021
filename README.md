@@ -13,5 +13,8 @@ Tasks:
 8. Change your repository’s origin to point to your classmate’s repository. Make a small change and attempt to push your changes to their repository.
 9. In your repository’s README file, describe what happened when you tried to push your changes to their repository.  
    * What message did GitHub Desktop give you?
+   Github Desktop asked if you wanted to fork the repo or contribute to it.
    * Why do you think this happened?
+   Callum had access to my repository.
    * What does this reveal about how Git handles remote permissions?
+  It allows you to either edit it if you have permissions, or fork it if you don't have the permissions.
